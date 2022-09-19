@@ -1,4 +1,4 @@
-Title: Cricket Prediction System
+Title: Cricket Win Prediction System
 
 Team Members: Swapnil Bhasgauri (Email : bhasgauri.s@northeastern.edu NUID:002752978) 
               Vikrant Pawar (Email : pawar.vik@northeastern.edu NUID:002772104)
