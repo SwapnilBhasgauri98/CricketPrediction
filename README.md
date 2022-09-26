@@ -1,7 +1,5 @@
 # NBA PLayer Stat Evaluation
 
-Title: NBA Player Stat Evaluation
-
 Project Description:
 Goal: To create a database of NBA players and assigning points to each player based on their stats.
 The database will include all the information about the players, player stats, teams, matches, coaches and stadium location. Based on the player stats, we will be assigning points to each player which will help us get an idea about the player’s overall performance compared to other players.
