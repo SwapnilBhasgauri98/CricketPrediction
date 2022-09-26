@@ -1,4 +1,4 @@
-DAMG Assignment 
+# NBA PLayer Stat Evaluation
 
 Title: NBA Player Stat Evaluation
 
