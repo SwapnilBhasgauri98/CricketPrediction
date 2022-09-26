@@ -8,8 +8,8 @@ The database will include all the information about the players, player stats, t
 
 Strategy:
 We are planning to web scrape the NBA’s website to extract data. Using this data, we will create the database for our system.
-Outcome:
 
+Outcome:
 A solidified asset vault as a data set that is freely accessible on GitHub. This will be a guide for how to utilize the data set and a definite walkthrough toward the undertaking's end.
 
 
